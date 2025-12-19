@@ -3,6 +3,11 @@
 
 <h1 align="center"> Hi there 👋</h1>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&lines=0xmrsecurity" style="display: inline ">
+  </a>
+</h1>
 ```bash
   ██████╗ ██╗  ██╗███╗   ███╗██████╗ 
  ██╔═████╗╚██╗██╔╝████╗ ████║██╔══██╗
