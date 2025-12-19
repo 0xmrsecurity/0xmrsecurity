@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi there 👋</h1> 
 
-<table width="100%">
+<h1>
   <tr>
     <td align="left">
       <img 
@@ -18,7 +18,7 @@
         alt="right gif">
     </td>
   </tr>
-</table>
+</h1>
 
 
 ```bash
