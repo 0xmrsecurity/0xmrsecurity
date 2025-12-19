@@ -11,6 +11,7 @@
  ╚██████╔╝██╔╝ ██╗██║ ╚═╝ ██║██║  ██║
   ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝  0xmrsecurity.github.io
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmrsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="0xmrsecurity" /> </p>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
