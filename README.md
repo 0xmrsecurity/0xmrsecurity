@@ -5,8 +5,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&lines=0xmrsecurity" style="display: inline ">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&color=FF0000&lines=0xmrsecurity.github.io" 
+      style="display: inline;">
   </a>
+</h1>
 </h1>
 ```bash
   ██████╗ ██╗  ██╗███╗   ███╗██████╗ 
