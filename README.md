@@ -4,24 +4,21 @@
 <h1 align="center"> Hi there 👋</h1> 
 
 <h1 align="left">
-      <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
-  <br><br>
-<h1 align="right"
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-   <br><br>
-</h1>
-</h1>      
-</h1>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" 
+    width="200" 
+    alt="left animation">
 </h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&color=FF0000&lines=0xmrsecurity.github.io" 
-      style="display: inline;">
-  </a>
+<br><br>
+
+<h1 align="right">
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" 
+    width="600" 
+    alt="animated hello">
 </h1>
-</h1>
+
 
 ```bash
   ██████╗ ██╗  ██╗███╗   ███╗██████╗ 
