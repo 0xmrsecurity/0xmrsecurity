@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/70/58/1f/70581f993fd1a61fdf1aa3916419d18f.gif" width="1000">
 
 <h1 align="center"> Hi there 👋</h1> 
-<h1 align="center">
+<h1 align="left">
       <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
   <br><br>
 </h1>
