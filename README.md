@@ -22,3 +22,17 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=0xShadowMan&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
