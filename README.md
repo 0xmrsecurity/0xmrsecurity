@@ -1,6 +1,4 @@
 
-#<img src="https://i.pinimg.com/originals/70/58/1f/70581f993fd1a61fdf1aa3916419d18f.gif" width="1000">
-
 <figure><img src="https://4024756925-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZbLrq3t9Su3CqGmkXz7o%2Fuploads%2FdJP9qfhPsIsJq4fBAgKc%2Fsamuraix.png?alt=media&#x26;token=a63bf8e4-e56d-4144-8ce6-dbd31de05d7a" alt="" width="546"><figcaption><p>0xmr</p></figcaption></figure>
 
 <h1 align="center">
