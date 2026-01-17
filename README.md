@@ -34,7 +34,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-```bash
-<img src="https://i.pinimg.com/originals/70/58/1f/70581f993fd1a61fdf1aa3916419d18f.gif" width="1000">
-```
