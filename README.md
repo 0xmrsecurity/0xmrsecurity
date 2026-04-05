@@ -27,11 +27,20 @@
 <!-- Featured Project Section -->
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Project
-> Netspray
-![Project link](https://github.com/0xmrsecurity/netspray)
+> Netspray:-  NetSpray is a wrapper script designed to save time when performing password or hash spraying across multiple protocols. It leverages the power of NetExec to automate the process efficiently.
+
+[Project link](https://github.com/0xmrsecurity/netspray)
+
 ```bash
 Usage: NetSpray <protocols|all> <targets|subnet> -u <username> [-p <password> | -H <hash>] [OPTIONS]
 ```
+> Scrad:-  This tool finds hidden endpoints across the entire website using js.
+
+[](https://github.com/0xmrsecurity/Scrad)
+```bash
+Usage from Browers, just click on scrad bookmark and it will open a new page with in a 2 seconds.
+```
+
 
 ```bash
 NetSpray  
