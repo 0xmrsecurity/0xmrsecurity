@@ -38,7 +38,7 @@ Usage: NetSpray <protocols|all> <targets|subnet> -u <username> [-p <password> | 
 
 [Project link](https://github.com/0xmrsecurity/Scrad)
 ```bash
-Usage from Browers, just click on scrad bookmark and it will open a new page with in a 2 seconds.
+Usage Ready to use from brower, just click on scrad bookmark and it will open a new page with in a 2 seconds.
 ```
 > Public POC (Proof of Concepts):- list of public Exploit in python and bash languages.
 
