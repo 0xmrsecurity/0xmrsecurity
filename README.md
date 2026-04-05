@@ -27,6 +27,12 @@
 <!-- Featured Project Section -->
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Project
+> Netspray
+![Project link](https://github.com/0xmrsecurity/netspray)
+```bash
+Usage: NetSpray <protocols|all> <targets|subnet> -u <username> [-p <password> | -H <hash>] [OPTIONS]
+```
+
 ```bash
 NetSpray  
 Scrad
