@@ -11,7 +11,7 @@
   ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝          {  0xmrsecurity.github.io  }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmrsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="0xmrsecurity" /> </p>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- About Me Section with Modern Cards -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
  
@@ -19,7 +19,7 @@
 >
 > Hello there! I’m Suraj, a passionate cybersecurity student and an aspiring Red Teamer. I have a strong curiosity and an unstoppable urge to dive deep into the world of cybersecurity, especially when it comes to understanding how things work. I love exploring, learning, and teaching. > Whether it’s uncovering system vulnerabilities, experimenting with new tools, or mastering complex concepts, I’m always eager to go deeper and learn something new every day.
 
-==============================================================================================================================================================================================================================================================
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- Featured Project Section -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Project
 ```bash
@@ -28,6 +28,7 @@ Scrad
 Public Proof of Concepts (POC)
 Notes Web Site
 ```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -41,3 +42,5 @@ Notes Web Site
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
