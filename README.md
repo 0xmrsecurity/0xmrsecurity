@@ -22,18 +22,14 @@
 <div align="center">
   
 ###  Who Am I?
-
-</div>
-
-```yaml
-Hello there! I’m Suraj, a passionate cybersecurity student and an aspiring Red Teamer. I have a strong curiosity and an unstoppable urge to dive deep into the world of cybersecurity, especially when it comes to understanding how things work. I love exploring, learning, and teaching. Whether it’s uncovering system vulnerabilities, experimenting with new tools, or mastering complex concepts, I’m always eager to go deeper and learn something new every day.
-```
+>
+> Hello there! I’m Suraj, a passionate cybersecurity student and an aspiring Red Teamer. I have a strong curiosity and an unstoppable urge to dive deep into the world of cybersecurity, especially when it comes to understanding how things work. I love exploring, learning, and teaching. > Whether it’s uncovering system vulnerabilities, experimenting with new tools, or mastering complex concepts, I’m always eager to go deeper and learn something new every day.
 
 ==============================================================================================================================================================================================================================================================
 <!-- Featured Project Section -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Project
 ```bash
-NetSpray
+NetSpray  
 Scrad
 Public Proof of Concepts (POC)
 Notes Web Site
