@@ -36,18 +36,19 @@ Usage: NetSpray <protocols|all> <targets|subnet> -u <username> [-p <password> | 
 ```
 > Scrad:-  This tool finds hidden endpoints across the entire website using js.
 
-[](https://github.com/0xmrsecurity/Scrad)
+[Project link](https://github.com/0xmrsecurity/Scrad)
 ```bash
 Usage from Browers, just click on scrad bookmark and it will open a new page with in a 2 seconds.
 ```
+> Public POC (Proof of Concepts):- list of public Exploit in python and bash languages.
+
+[Project link](https://github.com/0xmrsecurity/Public_Poc)
+
+> Pentesting Notes Site
+
+[0xmrsecurity.github.io](https://0xmrsecurity.github.io/)
 
 
-```bash
-NetSpray  
-Scrad
-Public Proof of Concepts (POC)
-Notes Web Site
-```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
