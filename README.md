@@ -50,10 +50,10 @@ Usage Ready to use from brower, just click on scrad bookmark and it will open a 
 [0xmrsecurity.github.io](https://0xmrsecurity.github.io/)
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
+![Apoorv's github streak](https://streak-stats.demolab.com?user=0xmrsecurity&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%204%10mins-blue?style=flat)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✍️ Random Dev Quote
