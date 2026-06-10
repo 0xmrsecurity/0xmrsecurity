@@ -27,7 +27,8 @@
 
 <!-- Featured Project Section -->
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Project
+# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Project
+## Netspray
 > Netspray:-  NetSpray is a wrapper script designed to save time when performing password or hash spraying across multiple protocols. It leverages the power of NetExec to automate the process efficiently.
 
 [live_Project_link](https://github.com/0xmrsecurity/netspray)
@@ -35,25 +36,28 @@
 ```bash
 Usage: NetSpray <protocols|all> <targets|subnet> -u <username> [-p <password> | -H <hash>] [OPTIONS]
 ```
+## Scrad
 > Scrad:-  This tool finds hidden endpoints across the entire website using js.
 
 [live_Project_link](https://github.com/0xmrsecurity/Scrad)
 ```bash
 Usage Ready to use from brower, just click on scrad bookmark and it will open a new page with in a 2 seconds.
 ```
+## Public POC Repo
 > Public POC (Proof of Concepts):- list of public Exploit in python and bash languages.
 
 [live_Project_link](https://github.com/0xmrsecurity/Public_Poc)
 
-> Pentesting Notes Site
+## Pentesting Notes site
+> Pentesting Notes
 
-[0xmrsecurity.github.io](https://0xmrsecurity.github.io/)
+[0xmr.qzz.io](https://0xmr.qzz.io/)
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=0xmrsecurity&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%204%10mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%204%20mins-blue?style=flat)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✍️ Random Dev Quote
