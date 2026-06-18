@@ -153,9 +153,9 @@ Usage Ready to use from brower, just click on scrad bookmark and it will open a 
 <div align="center">
 
 ```
-☁️  AWS Security     ████████████░░░░  Deep dive: IAM escalation, Lambda abuse
-🤖  AI/LLM Security  ███████████░░░░░  Prompt injection, model extraction  
-🌐  Web Advanced     ████████░░░░░░░░  OAuth, SSRF chains, deserialization
+☁️  AWS Security     ███████████       Deep dive: IAM escalation, Lambda abuse, EC2 , S3 etc.
+🤖  AI/LLM Security  ███████████       Prompt injection, model extraction, System Prompt Extract and Jail Break.  
+🌐  Web Advanced     ████████          OAuth/OTP, SSRF chains, LFI, Command Injection.
 ```
 
 </div>
