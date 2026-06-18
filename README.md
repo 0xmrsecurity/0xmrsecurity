@@ -91,17 +91,30 @@ class Suraj:
 ---
 
 ## 🚀 Featured Projects
+### Netspray
+> Netspray:-  NetSpray is a wrapper script designed to save time when performing password or hash spraying across multiple protocols. It leverages the power of NetExec to automate the process efficiently.
 
-<div align="center">
+[live_Project_link](https://github.com/0xmrsecurity/netspray)
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🔫 **NetSpray**](https://github.com/0xmrsecurity/netspray) | Password & hash spraying across multiple protocols via NetExec — built for speed during AD assessments | `Bash` `NetExec` `AD` |
-| [🕵️ **Scrad**](https://github.com/0xmrsecurity/Scrad) | Browser bookmarklet that hunts hidden endpoints by parsing JavaScript — one click, results in 2 sec | `JavaScript` `Recon` |
-| [💣 **Public POCs**](https://github.com/0xmrsecurity/Public_Poc) | Curated collection of public exploits and PoCs in Python & Bash — real CVEs, real research | `Python` `Bash` `Exploits` |
-| [📖 **Pentesting Notes**](https://0xmr.qzz.io/) | Personal cheatsheet site — AD, Web, AWS, AI/LLM notes and learning resources | `Blog` `Cheatsheets` |
+```bash
+Usage: NetSpray <protocols|all> <targets|subnet> -u <username> [-p <password> | -H <hash>] [OPTIONS]
+```
+### Scrad
+> Scrad:-  This tool finds hidden endpoints across the entire website using js.
 
-</div>
+[live_Project_link](https://github.com/0xmrsecurity/Scrad)
+```bash
+Usage Ready to use from brower, just click on scrad bookmark and it will open a new page with in a 2 seconds.
+```
+### Public POC Repo
+> Public POC (Proof of Concepts):- list of public Exploit in python and bash languages.
+
+[live_Project_link](https://github.com/0xmrsecurity/Public_Poc)
+
+### Pentesting Notes site
+> Pentesting Notes
+
+[0xmr.qzz.io](https://0xmr.qzz.io/)
 
 ---
 
