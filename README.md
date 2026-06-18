@@ -24,6 +24,7 @@ Active Directory environments, cloud infrastructure, and emerging AI/LLM systems
 
 Not just studying cybersecurity — actively operating in it.
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmrsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="0xmrsecurity" /> </p>
 
 - 🔍 **Current Focus**: Web Pentesting | Active Directory Exploitation | AWS Security | AI/LLM Vulnerability Research
 - 🛠️ **Expertise**: OWASP Top 10, IDOR, Information Disclosure, Privilege Escalation, Cloud Misconfigurations
