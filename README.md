@@ -1,157 +1,175 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px"> Hi, I'm Suraj
-
-### 🔴 Cybersecurity Specialist | Pentester | Cloud Security Researcher
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-gupta-mrx-/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xmrsecurity)
-[![Blog](https://img.shields.io/badge/Blog-%23FF6B35.svg?style=for-the-badge&logo=rss&logoColor=white)](https://0xmr.qzz.io)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Su8aj@protonmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=0xmrsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="0xmrsecurity" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Suraj%20%7C%200xmrsecurity&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pentester%20%7C%20CloudSec%20%7C%20AI%2FLLM%20Security&descAlignY=55&descAlign=50" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+%E2%80%A2+Active+Directory+%E2%80%A2+AWS+%E2%80%A2+AI%2FLLM;Real+Findings.+Real+Impact.+Real+Security.;Breaking+Things+to+Build+Them+Better." alt="Typing SVG" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0xmrsecurity-181717?style=for-the-badge&logo=github)](https://github.com/0xmrsecurity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-gupta-mrx-/)
+[![Blog](https://img.shields.io/badge/Blog-0xmr.qzz.io-A78BFA?style=for-the-badge&logo=hashnode&logoColor=white)](https://0xmr.qzz.io/)
+[![Email](https://img.shields.io/badge/ProtonMail-Su8aj-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Su8aj@protonmail.com)
+[![HTB](https://img.shields.io/badge/HackTheBox-0xmrsecurity-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/0xmrsecurity)
+[![THM](https://img.shields.io/badge/TryHackMe-0xmrsecurity-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xmrsecurity)
+
+![Views](https://komarev.com/ghpvc/?username=0xmrsecurity&label=Profile+Views&color=6E40C9&style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 About Me
+<img align="right" width="340" src="https://64.media.tumblr.com/b2db124c402f36f256fdf0f0a21820d4/9183c63c3a6737f8-31/s540x810/e28754840841b423c0c4a91e24f303c5dcc7c0a5.gif"/>
 
+## 👾 About Me
+
+```python
+class Suraj:
+    name     = "Suraj Gupta"
+    alias    = "0xmrsecurity"
+    role     = "Pentester & Cloud Security Engineer"
+    domains  = ["Web", "Active Directory", "AWS", "AI/LLM"]
+    language = ["Python", "Bash"]
+    
+    def mission(self):
+        return "Find it before the bad guys do."
 ```
-Cybersecurity undergraduate transforming theoretical knowledge into real-world impact.
-Specialized in identifying and exploiting vulnerabilities across web applications,
-Active Directory environments, cloud infrastructure, and emerging AI/LLM systems.
 
-Not just studying cybersecurity — actively operating in it.
-```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmrsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="0xmrsecurity" /> </p>
+- 🔭 Currently pentesting **Web, AD, AWS & AI/LLM**
+- 🌱 Deep-diving **AWS Security, AI/LLM attacks, Web Advanced**
+- 🐛 Disclosed **IDOR vulns, exposed S3 buckets, Grok/Kimi findings**
+- 📖 Personal cheatsheet & notes → **[0xmr.qzz.io](https://0xmr.qzz.io/)**
+- 🤝 Open to collaborate → **[github.com/0xmrsecurity](https://github.com/0xmrsecurity)**
 
-- 🔍 **Current Focus**: Web Pentesting | Active Directory Exploitation | AWS Security | AI/LLM Vulnerability Research
-- 🛠️ **Expertise**: OWASP Top 10, IDOR, Information Disclosure, Privilege Escalation, Cloud Misconfigurations
-- 📚 **Learning**: Advanced AWS Penetration Testing | Red Team Operations | Exploit Development
-- 🤝 **Open to**: Collaboration on security tools, vulnerability research, and open-source projects
-- 💬 **Ask me about**: AD exploitation, web application vulnerabilities, AWS security, AI/LLM security, and offensive techniques
-- 📧 **Contact**: [Su8aj@protonmail.com](mailto:Su8aj@protonmail.com)
+<br clear="right"/>
 
 ---
 
-## 🎓 Professional Credentials & Training
+## 🏆 Real-World Findings
 
-| Certification | Provider |
-|---------------|----------|
-| 🟢 Offensive Penetration Testing | Cybrary |
-| 🟢 Geo-data Sharing & Cyber Security | ISRO |
-| 🟢 Intro to AWS Penetration Testing | SimplyCyber Academy |
-| 🟢 Hacking Active Directory | SimplyCyber Academy |
-| 🟢 Offensive Penetration Testing | TryHackMe |
-| 🟢 Web Exploitation | TryHackMe |
-| 🟢 Red Teaming Fundamentals | TryHackMe |
+<div align="center">
 
----
+| # | Vulnerability | Target | Impact |
+|---|--------------|--------|--------|
+| 🔓 | **IDOR** × 2 | Live Production Systems | Unauthorized data access exposed |
+| 🪣 | **Exposed S3 Bucket** | Live Production | Sensitive data publicly accessible |
+| 💉 | **Command Injection** | Grok AI (via Chatbot) | Remote command execution vector |
+| 📤 | **System Prompt Extraction** | Kimi AI (Chinese LLM) | Full system prompt leaked |
 
-## 🎖️ Notable Security Discoveries
-
-| Vulnerability Type | Count | Impact |
-|-------------------|-------|--------|
-| **IDOR (Insecure Direct Object References)** | 2 | High - Data Exposure |
-| **S3 Bucket Misconfiguration** | 1 | Critical - Cloud Data Exposure |
-| **Command Injection (Grok Chatbot)** | 1 | High - Remote Code Execution |
-| **System Prompt Extraction (Kimi AI)** | 1 | High - AI Security Bypass |
+</div>
 
 ---
 
-## 💻 Technical Arsenal
+## 🛠️ Tech Arsenal
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<div align="center">
 
-### **Security Tools & Frameworks**
-- **Network & Enumeration**: Nessus, Nuclei, Custom Scripts
-- **Active Directory**: BloodHound, Impacket Suite, Custom PowerShell/Bash Scripts
-- **C2 & Post-Exploitation**: Sliver C2
-- **Web Application Testing**: Burp Suite, OWASP Tools
-- **Cloud Security**: AWS Security Tools & Custom Assessment Scripts
+**Languages**
 
-### **Core Competencies**
-```
-✓ Web Application Penetration Testing (OWASP Top 10)
-✓ Active Directory Exploitation & Lateral Movement
-✓ Cloud Infrastructure Security (AWS)
-✓ AI/LLM Security Research & Exploitation
-✓ Custom Exploit Development
-✓ Information Disclosure & Data Exfiltration
-✓ Privilege Escalation Techniques
-✓ Red Team Operations
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Pentesting Tools**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4D8?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-F05033?style=for-the-badge&logoColor=white)
+![Sliver C2](https://img.shields.io/badge/Sliver_C2-6E40C9?style=for-the-badge&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-4EAA25?style=for-the-badge&logoColor=white)
+![Custom Scripts](https://img.shields.io/badge/Custom_Scripts-A78BFA?style=for-the-badge&logo=github&logoColor=white)
+
+**Cloud & OS**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### **[NetSpray](https://github.com/0xmrsecurity/netspray)** - Password & Hash Spraying Automation
-> Intelligent wrapper script leveraging NetExec for multi-protocol credential spraying across enterprise environments.
-```bash
-Usage: NetSpray <protocols|all> <targets|subnet> -u <username> [-p <password> | -H <hash>] [OPTIONS]
-```
-**Features**: Multi-protocol support • Customizable wordlists • Built-in rate limiting • Logging & reporting
-
----
-
-### **[Scrad](https://github.com/0xmrsecurity/Scrad)** - Hidden Endpoint Discovery
-> Browser-based tool that automatically discovers hidden endpoints across entire web applications by analyzing JavaScript files.
-```bash
-Usage: Install as browser bookmark → Click to discover endpoints in seconds
-```
-**Features**: Zero-setup installation • Real-time scanning • Minimal false positives
-
----
-
-### **[Public POC Repository](https://github.com/0xmrsecurity/Public_Poc)** - Proof of Concepts
-> Curated collection of publicly disclosed exploits and proof-of-concepts written in Python and Bash.
-
-**Includes**: CVE exploits • Protocol-specific attacks • Novel vulnerability techniques
-
----
-
-### **[Pentesting Notes & Cheatsheets](https://0xmr.qzz.io)** - Personal Knowledge Base
-> Comprehensive resource for pentesting techniques, commands, methodologies, and security insights built from real-world experience.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=0xmrsecurity&theme=dark&mode=weekly)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmrsecurity&layout=compact&theme=dark)
-
----
-
-## 🔗 Connect With Me
-
 <div align="center">
-  
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [suraj-gupta-mrx](https://www.linkedin.com/in/suraj-gupta-mrx-/) |
-| **GitHub** | [@0xmrsecurity](https://github.com/0xmrsecurity) |
-| **Blog** | [0xmr.qzz.io](https://0xmr.qzz.io) |
-| **Email** | Su8aj@protonmail.com |
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🔫 **NetSpray**](https://github.com/0xmrsecurity/netspray) | Password & hash spraying across multiple protocols via NetExec — built for speed during AD assessments | `Bash` `NetExec` `AD` |
+| [🕵️ **Scrad**](https://github.com/0xmrsecurity/Scrad) | Browser bookmarklet that hunts hidden endpoints by parsing JavaScript — one click, results in 2 sec | `JavaScript` `Recon` |
+| [💣 **Public POCs**](https://github.com/0xmrsecurity/Public_Poc) | Curated collection of public exploits and PoCs in Python & Bash — real CVEs, real research | `Python` `Bash` `Exploits` |
+| [📖 **Pentesting Notes**](https://0xmr.qzz.io/) | Personal cheatsheet site — AD, Web, AWS, AI/LLM notes and learning resources | `Blog` `Cheatsheets` |
 
 </div>
 
 ---
 
-## 💡 Philosophy
+## 📜 Certifications & Training
 
-> "Security is not a destination, it's a journey. Every vulnerability disclosed, every system secured, and every technique mastered brings us closer to building a safer digital world."
+<div align="center">
+
+> *"Certifications are expensive. Skills are not. Here's the proof of work."*
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+🏫 **Cybrary** — Offensive Penetration Testing  
+🛰️ **ISRO** — Geo-data Sharing & Cyber Security  
+☁️ **SimplyCyber** — Intro to AWS Pentesting  
+🏢 **SimplyCyber** — Hacking Active Directory  
+
+</td>
+<td>
+
+⚔️ **TryHackMe** — Offensive Pentesting Path  
+🌐 **TryHackMe** — Web Exploitation Path  
+🔴 **TryHackMe** — Red Teaming Path  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Currently Leveling Up
+
+<div align="center">
+
+```
+☁️  AWS Security     ████████████░░░░  Deep dive: IAM escalation, Lambda abuse
+🤖  AI/LLM Security  ███████████░░░░░  Prompt injection, model extraction  
+🌐  Web Advanced     ████████░░░░░░░░  OAuth, SSRF chains, deserialization
+```
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=0xmrsecurity&theme=tokyonight&mode=weekly&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=0xmrsecurity&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xmrsecurity&theme=tokyo-night&hide_border=true)](https://github.com/0xmrsecurity)
+
+</div>
 
 ---
 
 <div align="center">
 
-**⭐ If you find my tools or content useful, consider giving them a star!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer"/>
 
-[![](https://visitcount.itsvg.in/api?id=0xmrsecurity&icon=5&color=1)](https://visitcount.itsvg.in)
+*"The quieter you become, the more you are able to hear."*
+
+![Snake animation](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg)
 
 </div>
