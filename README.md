@@ -26,7 +26,7 @@
 ```python
 class Suraj:
     name     = "Suraj Gupta"
-    alias    = "0xmrsecurity"
+    alias    = "0xmr"
     role     = "Pentester & Cloud Security Engineer"
     domains  = ["Web", "Active Directory", "AWS", "AI/LLM"]
     language = ["Python", "Bash"]
