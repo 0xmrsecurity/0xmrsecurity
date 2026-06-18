@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Suraj%20%7C%200xmrsecurity&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pentester%20%7C%20CloudSec%20%7C%20AI%2FLLM%20Security&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Suraj%20%7C%200xmr&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pentester%20%7C%20CloudSec%20%7C%20AI%2FLLM%20Security&descAlignY=55&descAlign=50" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+%E2%80%A2+Active+Directory+%E2%80%A2+AWS+%E2%80%A2+AI%2FLLM;Real+Findings.+Real+Impact.+Real+Security.;Breaking+Things+to+Build+Them+Better." alt="Typing SVG" />
 
